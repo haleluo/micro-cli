@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/micro/cli/v2"
+	"fmgo.io/microv2/cli/v2"
 )
 
 // NewJSONSourceFromFlagFunc returns a func that takes a cli.Context
