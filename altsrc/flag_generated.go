@@ -5,7 +5,7 @@ package altsrc
 import (
 	"flag"
 
-	"fmgo.io/microv2/cli/v2"
+	"github.com/haleluo/micro-cli/v2"
 )
 
 // BoolFlag is the flag type that wraps cli.BoolFlag to allow

@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"strings"
 
-	"fmgo.io/microv2/cli/v2"
+	"github.com/haleluo/micro-cli/v2"
 
 	"gopkg.in/yaml.v2"
 )

@@ -65,9 +65,9 @@ func TestActionFunc(c *cli.Context) error {
 		var packageName string
 
 		if pkg == "cli" {
-			packageName = "fmgo.io/microv2/cli/v2"
+			packageName = "github.com/haleluo/micro-cli/v2"
 		} else {
-			packageName = fmt.Sprintf("fmgo.io/microv2/cli/v2/%s", pkg)
+			packageName = fmt.Sprintf("github.com/haleluo/micro-cli/v2/%s", pkg)
 		}
 
 		coverProfile := fmt.Sprintf("--coverprofile=%s.coverprofile", pkg)

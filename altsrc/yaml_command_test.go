@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"fmgo.io/microv2/cli/v2"
+	"github.com/haleluo/micro-cli/v2"
 )
 
 func TestCommandYamlFileTest(t *testing.T) {

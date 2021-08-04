@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"fmgo.io/microv2/cli/v2"
+	"github.com/haleluo/micro-cli/v2"
 )
 
 // MapInputSource implements InputSourceContext to return

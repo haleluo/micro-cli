@@ -1,6 +1,6 @@
-module fmgo.io/microv2/cli/v2
+module github.com/haleluo/micro-cli/v2
 
-go 1.11
+go 1.16
 
 require (
 	github.com/BurntSushi/toml v0.3.1

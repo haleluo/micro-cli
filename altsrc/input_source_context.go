@@ -3,7 +3,7 @@ package altsrc
 import (
 	"time"
 
-	"fmgo.io/microv2/cli/v2"
+	"github.com/haleluo/micro-cli/v2"
 )
 
 // InputSourceContext is an interface used to allow
